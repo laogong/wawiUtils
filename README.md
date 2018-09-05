@@ -1,6 +1,6 @@
 # wawiUtils
 这是一个utils的集合
-##使用方法
+# 使用方法
 
 build.gradle文件中添加:
 
