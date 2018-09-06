@@ -10,9 +10,10 @@ import java.util.Locale;
 import java.util.TimeZone;
 
 /**
- * Created by sdmt-gjw on 2015/6/3.
+ * Created by gjw on 2015/6/3.
  */
 public class TimeUtils {
+    
     // 以友好的方式显示时间
     public static String friendly_time(String sdate) {
         Date time = null;

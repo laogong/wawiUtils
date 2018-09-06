@@ -39,9 +39,9 @@ dependencies {
 
 publish {
     userOrg = 'hbwawi'
-    groupId = 'com.wawi.utils'
+    groupId = 'com.wawi.android.utils'
     artifactId = 'utils'
     version = '0.0.1'
     description = '这是一个utils的集合'
-    website = "https://github.com/laogong/${rootProject.name}"
+    website = "https://github.com/laogong/wawiUtils"
 }
